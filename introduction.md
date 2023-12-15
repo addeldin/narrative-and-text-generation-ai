@@ -1,7 +1,7 @@
 # "Narrative and Text Generation AI"
 ## Top-Level
 ### Content
-This activity engages students in a conversation about text generation AI, namely [ChatGPT](https://openai.com/blog/chatgpt), in order to prompt a deeper conversation about the nature of narrative and the effect of technology on what we consider to be narrative. As an assignment, students engage with a storytelling engine based on ChatGPT, [AI Dungeon](https://beta.aidungeon.com/). Then, in class, the instructor guides a conversation about the stories students experienced, the nature of the technology AI Dungeon relies on, and the ramifications such technology might have on what we consider to be narrative.
+This activity engages students in a conversation about text generation AI, namely [ChatGPT](https://openai.com/blog/chatgpt), in order to prompt a deeper conversation about narrative. As an assignment, students engage with a storytelling engine based on ChatGPT, [AI Dungeon](https://beta.aidungeon.com/). Then, in class, the instructor guides a conversation about the stories students experienced, the nature of the technology AI Dungeon relies on, and the ramifications such technology might have on what we consider to be narrative.
 
 ### Structure and Context
 This activity was designed for a course called Narrative and Technology, which focuses on the impact of technology on narrative and the theory/study thereof. Throughout the term, students read narrative theory scholarship and interact with narratives from a variety of media, including print, film, television, interactive electronic literature, and video games.
